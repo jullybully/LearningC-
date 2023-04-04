@@ -1,0 +1,8 @@
+C:\Users\37063\Documents\.NET\Learning\FirstLesson\bin\Debug\FirstLesson.exe.config
+C:\Users\37063\Documents\.NET\Learning\FirstLesson\bin\Debug\FirstLesson.exe
+C:\Users\37063\Documents\.NET\Learning\FirstLesson\bin\Debug\FirstLesson.pdb
+C:\Users\37063\Documents\.NET\Learning\FirstLesson\obj\Debug\FirstLesson.csproj.AssemblyReference.cache
+C:\Users\37063\Documents\.NET\Learning\FirstLesson\obj\Debug\FirstLesson.csproj.SuggestedBindingRedirects.cache
+C:\Users\37063\Documents\.NET\Learning\FirstLesson\obj\Debug\FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\37063\Documents\.NET\Learning\FirstLesson\obj\Debug\FirstLesson.exe
+C:\Users\37063\Documents\.NET\Learning\FirstLesson\obj\Debug\FirstLesson.pdb
