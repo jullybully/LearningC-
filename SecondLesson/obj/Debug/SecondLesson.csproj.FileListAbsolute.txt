@@ -1,0 +1,8 @@
+C:\Users\37063\Documents\.NET\Learning\SecondLesson\bin\Debug\SecondLesson.exe.config
+C:\Users\37063\Documents\.NET\Learning\SecondLesson\bin\Debug\SecondLesson.exe
+C:\Users\37063\Documents\.NET\Learning\SecondLesson\bin\Debug\SecondLesson.pdb
+C:\Users\37063\Documents\.NET\Learning\SecondLesson\obj\Debug\SecondLesson.csproj.AssemblyReference.cache
+C:\Users\37063\Documents\.NET\Learning\SecondLesson\obj\Debug\SecondLesson.csproj.SuggestedBindingRedirects.cache
+C:\Users\37063\Documents\.NET\Learning\SecondLesson\obj\Debug\SecondLesson.csproj.CoreCompileInputs.cache
+C:\Users\37063\Documents\.NET\Learning\SecondLesson\obj\Debug\SecondLesson.exe
+C:\Users\37063\Documents\.NET\Learning\SecondLesson\obj\Debug\SecondLesson.pdb

@@ -1,0 +1,8 @@
+C:\Users\37063\Documents\.NET\Learning\LoopsLesson\bin\Debug\LoopsLesson.exe.config
+C:\Users\37063\Documents\.NET\Learning\LoopsLesson\bin\Debug\LoopsLesson.exe
+C:\Users\37063\Documents\.NET\Learning\LoopsLesson\bin\Debug\LoopsLesson.pdb
+C:\Users\37063\Documents\.NET\Learning\LoopsLesson\obj\Debug\LoopsLesson.csproj.AssemblyReference.cache
+C:\Users\37063\Documents\.NET\Learning\LoopsLesson\obj\Debug\LoopsLesson.csproj.SuggestedBindingRedirects.cache
+C:\Users\37063\Documents\.NET\Learning\LoopsLesson\obj\Debug\LoopsLesson.csproj.CoreCompileInputs.cache
+C:\Users\37063\Documents\.NET\Learning\LoopsLesson\obj\Debug\LoopsLesson.exe
+C:\Users\37063\Documents\.NET\Learning\LoopsLesson\obj\Debug\LoopsLesson.pdb
