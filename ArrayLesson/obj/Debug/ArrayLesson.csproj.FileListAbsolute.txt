@@ -1,0 +1,8 @@
+C:\Users\37063\Documents\.NET\Learning\ArrayLesson\obj\Debug\ArrayLesson.csproj.AssemblyReference.cache
+C:\Users\37063\Documents\.NET\Learning\ArrayLesson\obj\Debug\ArrayLesson.csproj.SuggestedBindingRedirects.cache
+C:\Users\37063\Documents\.NET\Learning\ArrayLesson\obj\Debug\ArrayLesson.csproj.CoreCompileInputs.cache
+C:\Users\37063\Documents\.NET\Learning\ArrayLesson\bin\Debug\ArrayLesson.exe.config
+C:\Users\37063\Documents\.NET\Learning\ArrayLesson\bin\Debug\ArrayLesson.exe
+C:\Users\37063\Documents\.NET\Learning\ArrayLesson\bin\Debug\ArrayLesson.pdb
+C:\Users\37063\Documents\.NET\Learning\ArrayLesson\obj\Debug\ArrayLesson.exe
+C:\Users\37063\Documents\.NET\Learning\ArrayLesson\obj\Debug\ArrayLesson.pdb
